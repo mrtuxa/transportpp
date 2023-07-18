@@ -21,9 +21,6 @@ project(transportpp_client VERSION 1.0 DESCRIPTION "A discord bot")
 # Add transportpp as a dependency
 add_subdirectory(libs/transportpp)
 
-# Find libcurl and set up its include directories and linking information
-find_package(CURL REQUIRED)
-
 # Create an executable
 add_executable(${PROJECT_NAME}
     src/main.cpp
