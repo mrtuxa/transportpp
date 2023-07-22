@@ -1,2 +1,0 @@
-/usr/bin/ar qc libtransportpp.a CMakeFiles/transportpp.dir/src/library.cpp.o
-/usr/bin/ranlib libtransportpp.a
