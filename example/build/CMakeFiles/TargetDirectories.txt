@@ -1,0 +1,6 @@
+/home/mrtuxa/CLionProjects/transportpp/example/build/CMakeFiles/transportpp_client.dir
+/home/mrtuxa/CLionProjects/transportpp/example/build/CMakeFiles/edit_cache.dir
+/home/mrtuxa/CLionProjects/transportpp/example/build/CMakeFiles/rebuild_cache.dir
+/home/mrtuxa/CLionProjects/transportpp/example/build/libs/transportpp/CMakeFiles/transportpp.dir
+/home/mrtuxa/CLionProjects/transportpp/example/build/libs/transportpp/CMakeFiles/edit_cache.dir
+/home/mrtuxa/CLionProjects/transportpp/example/build/libs/transportpp/CMakeFiles/rebuild_cache.dir
