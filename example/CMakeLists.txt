@@ -27,6 +27,6 @@ target_include_directories(${PROJECT_NAME} PRIVATE
 
 # Set C++ version
 set_target_properties(${PROJECT_NAME} PROPERTIES
-        CXX_STANDARD 23
+        CXX_STANDARD 98
         CXX_STANDARD_REQUIRED ON
         )
